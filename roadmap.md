@@ -1,0 +1,5 @@
+- [x] Add suggestions/bug reports in Settings.
+- [x] Add protected admin inbox with new-report notification.
+- [x] Verify real submission, persistence, mobile layout, and member update restriction.
+- [ ] Verify admin inbox and live notification end-to-end — blocked: administrator session requires the user to sign in as the administrator in the preview.
+- [x] Add "Gerador de Propostas" nav button linking to https://grupovilane.github.io/Geradordecota-o/.
